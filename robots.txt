@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: durak-kazino-na-dengi.github.io
+Sitemap: https://durak-kazino-na-dengi.github.io/sitemap.xml
